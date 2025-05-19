@@ -34,7 +34,7 @@ El Subsistema de Gestión de Usuarios del Servicio es una parte esencial del sis
 
 ## :package: Funcionalidades del Subsistema
 
-### :card_index_dividers: Registro de materiales y repuestos
+### :card_index_dividers: Registro de clientes
 
 Permite agregar nuevos ítems al inventario, incluyendo:
 
