@@ -251,9 +251,9 @@ public class Usuario {
 Este proyecto ha sido desarrollado por estudiantes del **1º DAW - IES Font de Sant Lluís**:
 
 - :bust_in_silhouette: Manuel Rubio
-- :bust_in_silhouette: Irma
-- :bust_in_silhouette: Ruben
-- :bust_in_silhouette: Alejandro
+- :bust_in_silhouette: Irma Wendolin
+- :bust_in_silhouette: Ruben Sánchez
+- :bust_in_silhouette: Alejandro Farinós
 
 | Nombre     | Rol   | Subsistema             |
 |------------|-------|------------------------|
