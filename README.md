@@ -10,7 +10,7 @@
 - [:package: Funcionalidades del Subsistema](#package-funcionalidades-del-subsistema)
   - [:card_index_dividers: Registro de clientes](#card_index_dividers-registro-de-clientes)
   - [:books: Historial de reparaciones por cliente](#books-historial-de-reparaciones-por-clientes)
-  - [:receipt: Presupuesto personalizados](#receipt-presupuestos-personalizados)
+  - [:receipt: Presupuesto personalizados](#receipt-presupuesto-personalizados)
   - [:truck: Envio notificaciones](#hammer_and_wrench-envio-notificaciones)
   - [:jigsaw: Clasificacion clientes](#clock4-clasificacion-clientes)
 - [:bar_chart: Estructura del Código Java](#bar_chart-estructura-del-código-java)
