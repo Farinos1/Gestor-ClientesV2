@@ -9,7 +9,7 @@
 - [:wrench: Introducción](#wrench-introducción)
 - [:package: Funcionalidades del Subsistema](#package-funcionalidades-del-subsistema)
   - [:card_index_dividers: Registro de clientes](#card_index_dividers-registro-de-clientes)
-  - [:books: Historial de reparaciones por cliente](#books_tray-historial-de-reparaciones-por-clientes)
+  - [:books: Historial de reparaciones por cliente](#inbox_tray-historial-de-reparaciones-por-clientes)
   - [:receipt: Presupuesto personalizados](#receipt-presupuestos-personalizados)
   - [:truck: Envio notificaciones](#hammer_and_wrench-envio-notificaciones)
   - [:jigsaw: Clasificacion clientes](#clock4-clasificacion-clientes)
