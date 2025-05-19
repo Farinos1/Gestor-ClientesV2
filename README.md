@@ -36,13 +36,13 @@ El Subsistema de Gestión de Usuarios del Servicio es una parte esencial del sis
 
 ### :card_index_dividers: Registro de clientes
 
-Permite agregar nuevos ítems al inventario, incluyendo:
+Permite agregar nuevos registros de clientes al sistema, incluyendo:
 
-- Nombre del material
-- Descripción
-- Proveedor
-- Precio unitario
-- Cantidad
+
+- Nombre del cliente o institución
+- Descripción completa
+- Información de contacto (teléfono, correo electrónico)
+- Tipo de cliente: particular o institucional
 
 ---
 
