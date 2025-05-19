@@ -9,7 +9,7 @@
 - [:wrench: Introducción](#wrench-introducción)
 - [:package: Funcionalidades del Subsistema](#package-funcionalidades-del-subsistema)
   - [:card_index_dividers: Registro de clientes](#card_index_dividers-registro-de-clientes)
-  - [:books: Historial de reparaciones por cliente](#books-historial-de-reparaciones-por-clientes)
+  - [:books: Historial de reparaciones por cliente](#inbox_tray-historial-de-reparaciones-por-clientes)
   - [:receipt: Presupuesto personalizados](#receipt-presupuestos-personalizados)
   - [:truck: Envio notificaciones](#hammer_and_wrench-envio-notificaciones)
   - [:jigsaw: Clasificacion clientes](#clock4-clasificacion-clientes)
@@ -46,7 +46,7 @@ Permite agregar nuevos registros de clientes al sistema, incluyendo:
 
 ---
 
-### :books: Historial de reparaciones por cliente
+### :books: Historial de reparaciones por clientes
 
 - Generación de reportes: Permite crear un historial completo de las reparaciones realizadas a cada cliente.
 - Asociaciones con clientes: Registra que reparaciones se han realizado para cada cliente e institución.
