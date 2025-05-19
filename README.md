@@ -8,8 +8,8 @@
 
 - [:wrench: Introducción](#wrench-introducción)
 - [:package: Funcionalidades del Subsistema](#package-funcionalidades-del-subsistema)
-  - [:card_index_dividers: 📋 Registro de clientes](#card_index_dividers-registro-de-clientes)
-  - [:inbox_tray: Gestión de stock](#inbox_tray-gestión-de-stock)
+  - [:card_index_dividers: Registro de clientes](#card_index_dividers-registro-de-clientes)
+  - [:inbox_tray: Historial de reparaciones](#inbox_tray-historial-de-reparaciones)
   - [:receipt: Orden de compras](#receipt-orden-de-compras)
   - [:hammer_and_wrench: Asignación de materiales](#hammer_and_wrench-asignación-de-materiales)
   - [:clock4: Historial de materiales](#clock4-historial-de-materiales)
