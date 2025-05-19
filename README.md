@@ -46,12 +46,12 @@ Permite agregar nuevos registros de clientes al sistema, incluyendo:
 
 ---
 
-### :inbox_tray: Gestión de stock
+### :books: Historial de reparaciones por cliente
 
-- Control de entradas y salidas.
-- Visualización de stock actual.
-- Alerta de **stock bajo** cuando la cantidad llega al mínimo.
-- Recuento automatizado.
+- Control de registros: Permite gestionar la entrada y salida de información de los clientes.
+- Visualización de clientes actuales: Muestra una lista de los clientes registrados y sus detalles.
+- Alerta de información incompleta: Notifica cuando algún dato esencial (teléfono o dirección) está incompleto.
+- Recuento automatizado: Actualiza automáticamente el número total de clientes registrados.
 
 ---
 
