@@ -28,9 +28,6 @@
 :warning: Notificaciones y Alertas
 
 :busts_in_silhouette: Integrantes del Grupo
-
----
-
 ## :wrench: Introducción
 
 El **Subsistema de Gestión de Materiales** es una parte clave del sistema de reparaciones informáticas. Este módulo permite:
