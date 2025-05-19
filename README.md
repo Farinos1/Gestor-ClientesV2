@@ -238,11 +238,11 @@ public class Usuario {
 
 ## :warning: Notificaciones y Alertas
 
-> :white_check_mark: **NOTIFICACIÓN**: El nuevo repuesto *Memoria RAM 8GB* ha sido registrado correctamente.
+> :white_check_mark: **NOTIFICACIÓN**: El nuevo cliente Instituto San Juan ha sido registrado correctamente en el sistema.
 
-> :warning: **ADVERTENCIA**: El stock de *Disco SSD 500GB* está por debajo del mínimo.
+> :warning: **ADVERTENCIA**: El cliente Pedro Martínez no tiene reparaciones registradas en los últimos 6 meses.
 
-> :x: **ERROR**: No se ha podido actualizar el stock debido a un fallo de conexión con la base de datos.
+> :x: **ERROR**: No se ha podido enviar la notificación al cliente Empresa XYZ debido a un problema con el servidor de correo.
 
 ---
 
@@ -257,8 +257,8 @@ Este proyecto ha sido desarrollado por estudiantes del **1º DAW - IES Font de S
 
 | Nombre     | Rol   | Subsistema             |
 |------------|-------|------------------------|
-| Manu       | Scrum | Gestión de materiales  |
-| Ruben      | Portavoz    | Gestión de reparaciones|
+| Manu       | Coordinador | Gestión de materiales  |
+| Ruben      | Facilitador    | Gestión de reparaciones|
 | Alejandro  | Secretario    | Gestión de clientes    |
 | Irma       | Portavoz    | Gestión de informes    |
 
