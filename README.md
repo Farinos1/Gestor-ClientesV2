@@ -11,7 +11,7 @@
   - [:card_index_dividers: Registro de clientes](#card_index_dividers-registro-de-clientes)
   - [:books: Historial de reparaciones por cliente](#inbox_tray-historial-de-reparaciones-por-clientes)
   - [:receipt: Presupuesto personalizados](#receipt-presupuestos-personalizados)
-  - [:hammer_and_wrench: Envio notificaciones](#hammer_and_wrench-envio-notificaciones)
+  - [:truck: Envio notificaciones](#hammer_and_wrench-envio-notificaciones)
   - [:clock4: Clasificacion clientes](#clock4-clasificacion-clientes)
 - [:bar_chart: Estructura del Código Java](#bar_chart-estructura-del-código-java)
 - [:framed_picture: Galería de Imágenes](#framed_picture-galería-de-imágenes)
