@@ -48,32 +48,32 @@ Permite agregar nuevos registros de clientes al sistema, incluyendo:
 
 ### :books: Historial de reparaciones por cliente
 
-- Control de registros: Permite gestionar la entrada y salida de información de los clientes.
-- Visualización de clientes actuales: Muestra una lista de los clientes registrados y sus detalles.
-- Alerta de información incompleta: Notifica cuando algún dato esencial (teléfono o dirección) está incompleto.
-- Recuento automatizado: Actualiza automáticamente el número total de clientes registrados.
+- Generación de reportes: Permite crear un historial completo de las reparaciones realizadas a cada cliente.
+- Asociaciones con clientes: Registra que reparaciones se han realizado para cada cliente e institución.
+- Detalles de reparaciones: Fecha, tipo de reparación, materiales utilizados y costos.
 
 ---
 
-### :receipt: Orden de compras
+### :receipt: Presupuesto personalizados
 
-- Generación automática de pedidos a proveedores.
-- Historial completo de órdenes emitidas.
-- Asociaciones con proveedores registrados.
-
----
-
-### :hammer_and_wrench: Asignación de materiales
-
-- Los materiales pueden asignarse a reparaciones específicas.
-- Se registra cantidad usada, fecha y técnico responsable.
+- Presupuestos automáticos: El sistema genera presupuestos personalizados basados en los trabajos solicitados por el cliente.
+- Costos: Muestra el costo de mano de obra, materiales y otros gastos asociados.
+- Envío de presupuestos: Permite enviar presupuestos por correo o a través del sistema al cliente.
 
 ---
 
-### :clock4: Historial de materiales
+### :truck: Envio notificaciones
 
-- Informes por período, reparación o cliente.
-- Consulta del uso y coste acumulado por reparación.
+- Estado de reparación: Notificaciones automáticas sobre el avance de la reparación de un equipo.
+- Coste final: Al finalizar la reparación, el sistema envía una notificación con el costo total.
+- Tiempo estimado de entrega: Envía alertas al cliente cuando la reparación se acerca a la fecha de entrega o si se produce algún retraso.
+
+---
+
+### :jigsaw: Clasificacion clientes
+
+- Clasifica a los clientes en grupos según  frecuencia de uso, tipo de servicio solicitado o cantidad de reparaciones.
+- Análisis de clientes frecuentes: Permite identificar clientes recurrentes o los cuales con mayor cantidad de servicios.
 
 ---
 
