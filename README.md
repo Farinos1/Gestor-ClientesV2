@@ -22,11 +22,11 @@
 
 El Subsistema de Gestión de Usuarios del Servicio es una parte esencial del sistema de reparaciones informáticas. Este módulo permite:
 
-- :package: Registrar y mantener actualizada la información de clientes, tanto particulares como instituciones.
-- :clipboard: Consultar el historial de reparaciones asociadas a cada cliente.
-- :hammer_and_wrench: Generar presupuestos personalizados según los servicios solicitados.
-- :warning: Enviar notificaciones automáticas sobre el estado y coste de las reparaciones.
-- Clasificar a los clientes según criterios como frecuencia de uso, tipo de reparaciones o volumen de servicios.
+- :memo: Registrar y mantener actualizada la información de clientes, tanto particulares como instituciones.
+- :open_file_folder: Consultar el historial de reparaciones asociadas a cada cliente.
+- :receipt: Generar presupuestos personalizados según los servicios solicitados.
+- :incoming_envelope: Enviar notificaciones automáticas sobre el estado y coste de las reparaciones.
+- :jigsaw: Clasificar a los clientes según criterios como frecuencia de uso, tipo de reparaciones o volumen de servicios.
 
 > :bulb: _Este subsistema se integra con los módulos de personal, reparaciones, clientes e informes._
 
