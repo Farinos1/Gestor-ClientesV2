@@ -12,7 +12,7 @@
   - [:books: Historial de reparaciones por cliente](#inbox_tray-historial-de-reparaciones-por-clientes)
   - [:receipt: Presupuesto personalizados](#receipt-presupuestos-personalizados)
   - [:truck: Envio notificaciones](#hammer_and_wrench-envio-notificaciones)
-  - [:clock4: Clasificacion clientes](#clock4-clasificacion-clientes)
+  - [:jigsaw: Clasificacion clientes](#clock4-clasificacion-clientes)
 - [:bar_chart: Estructura del Código Java](#bar_chart-estructura-del-código-java)
 - [:framed_picture: Galería de Imágenes](#framed_picture-galería-de-imágenes)
 - [:warning: Notificaciones y Alertas](#warning-notificaciones-y-alertas)
