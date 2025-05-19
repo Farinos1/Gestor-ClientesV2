@@ -20,12 +20,13 @@
 
 ## :wrench: Introducción
 
-El **Subsistema de Gestión de Materiales** es una parte clave del sistema de reparaciones informáticas. Este módulo permite:
+El Subsistema de Gestión de Usuarios del Servicio es una parte esencial del sistema de reparaciones informáticas. Este módulo permite:
 
-- :package: Controlar el inventario de piezas y repuestos.
-- :clipboard: Gestionar pedidos a proveedores.
-- :hammer_and_wrench: Asignar materiales a reparaciones concretas.
-- :warning: Evitar quiebres de stock con alertas automáticas.
+- :package: Registrar y mantener actualizada la información de clientes, tanto particulares como instituciones.
+- :clipboard: Consultar el historial de reparaciones asociadas a cada cliente.
+- :hammer_and_wrench: Generar presupuestos personalizados según los servicios solicitados.
+- :warning: Enviar notificaciones automáticas sobre el estado y coste de las reparaciones.
+- Clasificar a los clientes según criterios como frecuencia de uso, tipo de reparaciones o volumen de servicios.
 
 > :bulb: _Este subsistema se integra con los módulos de personal, reparaciones, clientes e informes._
 
