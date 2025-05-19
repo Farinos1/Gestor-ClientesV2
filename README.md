@@ -4,30 +4,20 @@
 
 ---
 
-:bookmark_tabs: Índice
-:wrench: Introducción
+## :bookmark_tabs: Índice
 
-:package: Funcionalidades del Subsistema
+- [:wrench: Introducción](#wrench-introducción)
+- [:package: Funcionalidades del Subsistema](#package-funcionalidades-del-subsistema)
+  - [:card_index_dividers: Registro de materiales y repuestos](#card_index_dividers-registro-de-materiales-y-repuestos)
+  - [:inbox_tray: Gestión de stock](#inbox_tray-gestión-de-stock)
+  - [:receipt: Orden de compras](#receipt-orden-de-compras)
+  - [:hammer_and_wrench: Asignación de materiales](#hammer_and_wrench-asignación-de-materiales)
+  - [:clock4: Historial de materiales](#clock4-historial-de-materiales)
+- [:bar_chart: Estructura del Código Java](#bar_chart-estructura-del-código-java)
+- [:framed_picture: Galería de Imágenes](#framed_picture-galería-de-imágenes)
+- [:warning: Notificaciones y Alertas](#warning-notificaciones-y-alertas)
+- [:busts_in_silhouette: Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
 
-:card_index_dividers: Registro de clientes
-
-:memo: Historial de reparaciones
-
-:money_with_wings: Presupuestos personalizados
-
-:email: Envío de notificaciones
-
-:bar_chart: Clasificación de clientes
-
-:mag_right: Búsqueda avanzada de clientes
-
-:bar_chart: Estructura del Código Java
-
-:framed_picture: Galería de Imágenes
-
-:warning: Notificaciones y Alertas
-
-:busts_in_silhouette: Integrantes del Grupo
 ## :wrench: Introducción
 
 El **Subsistema de Gestión de Materiales** es una parte clave del sistema de reparaciones informáticas. Este módulo permite:
