@@ -28,7 +28,7 @@ El Subsistema de Gestión de Usuarios del Servicio es una parte esencial del sis
 - :incoming_envelope: Enviar notificaciones automáticas sobre el estado y coste de las reparaciones.
 - :jigsaw: Clasificar a los clientes según criterios como frecuencia de uso, tipo de reparaciones o volumen de servicios.
 
-> :bulb: _Este subsistema se integra con los módulos de personal, reparaciones, clientes e informes._
+> :bulb: Este subsistema se integra con los módulos de reparaciones, materiales e informes para ofrecer una gestión completa del servicio técnico.
 
 ---
 
